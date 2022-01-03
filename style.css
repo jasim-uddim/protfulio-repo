@@ -2,3 +2,12 @@ h1 {
   color: aquamarine;
   background-color: black;
 }
+.blog {
+  background-color: coral;
+  color: cornsilk;
+  width: 600px;
+  height: 300px;
+  border: 5px solid yellow;
+  border-radius: 15px;
+  margin: 25px;
+}
