@@ -17,4 +17,14 @@ h1 {
   border-radius: 15px;
   margin: 10px auto;
   padding: 50px;
+
+  text-align: justify;
+}
+.text-center {
+  text-align: center;
+  /* justify-content: center; */
+}
+
+.name {
+  color: rgb(255, 0, 119);
 }
